@@ -1,7 +1,7 @@
 # Variable: puede ser string, number, obj, etc. Las variables no definen tipos. El intérprete deduce cuál es el tipo de la variable sin declarar.
 # Constantes: inician con mayusculas, como "Name"
 # ----------------------------- 
-# Palabras reservadas: new, 
+# Palabras reservadas: new, case, if, elsif, else, end
 
 
 name = 'Laura'
